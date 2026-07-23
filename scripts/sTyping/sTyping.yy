@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sTyping",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sTyping",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

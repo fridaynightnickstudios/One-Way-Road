@@ -1,0 +1,1 @@
+global.key_equipped = false;

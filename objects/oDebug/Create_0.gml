@@ -1,0 +1,1 @@
+global.debugmode = debug_mode

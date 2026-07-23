@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VariablePersistence",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VariablePersistence",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
