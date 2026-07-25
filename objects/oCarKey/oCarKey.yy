@@ -1,21 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"oCar",
+  "%Name":"oCarKey",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oCar",
+  "name":"oCarKey",
   "overriddenProperties":[],
   "parent":{
-    "name":"Car",
-    "path":"folders/Objects/Car.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"oCollisionVisible",
-    "path":"objects/oCollisionVisible/oCollisionVisible.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -34,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sCollision",
-    "path":"sprites/sCollision/sCollision.yy",
+    "name":"sCarKey",
+    "path":"sprites/sCarKey/sCarKey.yy",
   },
   "spriteMaskId":null,
   "visible":true,

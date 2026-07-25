@@ -18,11 +18,13 @@
     {"name":"inst_30CE8872","path":"rooms/House/House.yy",},
     {"name":"inst_647F4B9A","path":"rooms/House/House.yy",},
     {"name":"inst_4E8B3C3A","path":"rooms/House/House.yy",},
+    {"name":"inst_5689C439","path":"rooms/House/House.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_647F4B9A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_647F4B9A","objectId":{"name":"oTable","path":"objects/oTable/oTable.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.3333334,"scaleY":1.0,"x":2176.0,"y":1280.0,},
+        {"$GMRInstance":"v4","%Name":"inst_5689C439","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5689C439","objectId":{"name":"oCarKey","path":"objects/oCarKey/oCarKey.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2150.0,"y":1267.0,},
         {"$GMRInstance":"v4","%Name":"inst_30CE8872","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_30CE8872","objectId":{"name":"oVictor","path":"objects/oVictor/oVictor.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":2272.0,"y":1376.0,},
         {"$GMRInstance":"v4","%Name":"inst_4E8B3C3A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E8B3C3A","objectId":{"name":"oInteractable","path":"objects/oInteractable/oInteractable.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2144.0,"y":1248.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
