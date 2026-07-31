@@ -5,7 +5,7 @@ var previous = text_progress;
 text_progress = min(text_progress + text_speed, text_length);
 // okay. i'm fucking confused
 
-if (floor(previous) < floor(text_progress)) /*&& !audio_is_playing(cowbelltalking) */{
+if (floor(previous) < floor(text_progress)) && !audio_is_playing(cowbelltalking) {
     audio_play_sound(cowbelltalking, 1, false);
 }
 

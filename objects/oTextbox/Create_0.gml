@@ -44,8 +44,8 @@ text_progress = 0;
 text_length = 0;
 
 portrait_sprite = -1;
-portrait_width = sprite_get_width(sPortrait);
-portrait_height = sprite_get_height(sPortrait);
+portrait_width = sprite_get_width(sVictorTalking);
+portrait_height = sprite_get_height(sVictorTalking);
 portrait_side = PORTRAIT_SIDE.LEFT;
 
 enum PORTRAIT_SIDE {
